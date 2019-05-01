@@ -5,7 +5,7 @@ import clustermag_rules as cmr
 import calc_fitting_params as cfp
 # import mc_functions as mc
 import sys
-
+# test commit
 aust_tol = 0.02
 spin_style = ['threshold', 'threshold',
               'threshold']  # options for spin_tol. Assuming [Ni Mn In]. choose 'threshold' or 'factor'
