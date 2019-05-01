@@ -1,0 +1,53 @@
+# NN-NiX-Mart
+1
+COMB
+0
+0 1 2
+mart
+ALL
+8
+
+# NN-MnX-Mart
+1
+COMB
+1
+0 1 2
+mart
+ALL
+8
+
+# NN-InX-Mart
+1
+COMB
+2
+0 1 2
+mart
+ALL
+8
+
+# NN-NiX-AUST
+1
+COMB
+0
+0 1 2
+aust
+ALL
+8
+
+# NN-MnX-AUST
+1
+COMB
+1
+0 1 2
+aust
+ALL
+8
+
+# NN-InX-AUST
+1
+COMB
+2
+0 1 2
+aust
+ALL
+8
